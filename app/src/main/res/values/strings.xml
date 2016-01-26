@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SalesMobileApps</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="my_friend">My friends List</string>
+    <string name="name">Name</string>
+    <string name="job">Job</string>
+    <string name="ok">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="gender">Gender</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

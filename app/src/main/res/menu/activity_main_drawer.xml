@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_display_awal"
+            android:icon="@drawable/ic_add_to_queue_black_24dp"
+            android:title="Cek Display"/>
+        <item
+            android:id="@+id/nav_jadwal"
+            android:icon="@drawable/ic_content_paste_black_24dp"
+            android:title="Jadwal Kunjungan harian"/>
+        <item
+            android:id="@+id/nav_stock"
+            android:icon="@drawable/ic_library_books_black_24dp"
+            android:title="Cek Stock" />
+        <item
+            android:id="@+id/nav_tagihan"
+            android:icon="@drawable/ic_archive_black_24dp"
+            android:title="Tagihan" />
+        <item
+            android:id="@+id/nav_katalog"
+            android:icon="@drawable/ic_next_week_black_24dp"
+            android:title="Katalog"/>
+        <item
+            android:id="@+id/nav_pesanan"
+            android:icon="@drawable/ic_weekend_black_24dp"
+            android:title="Form Pesanan"/>
+        <item
+            android:id="@+id/nav_akhir_display"
+            android:icon="@drawable/ic_airplay_black_24dp"
+            android:title="Display Akhir"/>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_option"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:title="Option" />
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/ic_exit_to_app_black"
+                android:title="Keluar" />
+        </menu>
+    </item>
+
+</menu>
